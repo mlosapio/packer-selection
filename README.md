@@ -1,6 +1,4 @@
 # packer-selection
 
-Select latest packer release programmatically.
+Scripts that are useful for working with packer in a CI environment.
 
-
-Useful script to pull down the latest Hasicorp Packer release programatically. Useful for CI routines.
